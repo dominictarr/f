@@ -1,0 +1,23 @@
+{
+  "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://bit.ly/dominictarr)",
+  "name": "f",
+  "description": "functional terseness",
+  "version": "0.0.0",
+  "homepage": "github.com/dominictarr/f",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dominictarr/f.git"
+  },
+  "main": "f.js",
+  "scripts": {
+    "test": "meta-test test/*.js"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "dependencies": {
+    "underscore":"1.1"
+  , "f-core": "0.0"
+  },
+  "devDependencies": {}
+}
